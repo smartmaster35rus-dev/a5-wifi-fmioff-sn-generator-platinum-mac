@@ -8,23 +8,23 @@
 
 <p align="center">
 
-[в¬‡пёЏ Download latest release](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-mac/releases/latest) В· [рџЌЋ Windows build](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-win/releases/latest) В· [рџЊђ Activator site](https://smartmaster35rus-activator.ru/compatible.php)
+[⬇️ Download latest release](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-mac/releases/latest) · [🍎 Windows build](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-win/releases/latest) · [🌐 Activator site](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
 
 ---
 
-## рџ‡·рџ‡є Рћ РїСЂРѕРіСЂР°РјРјРµ
+## 🇷🇺 О программе
 
 **A5 Wi‑Fi Find My SN Generator Platinum (macOS)** — генератор SN для Find My research на A5/A6 Wi‑Fi.
 
-## рџ‡¬рџ‡§ About
+## 🇬🇧 About
 
 macOS serial number generator for A5/A6 Wi‑Fi Find My research.
 
 ---
 
-## вњЁ Key features
+## ✨ Key features
 
 | Feature | Description |
 |---------|-------------|
@@ -35,18 +35,18 @@ macOS serial number generator for A5/A6 Wi‑Fi Find My research.
 
 ---
 
-## в¬‡пёЏ Download
+## ⬇️ Download
 
 **[Releases](https://github.com/smartmaster35rus-dev/a5-wifi-fmioff-sn-generator-platinum-mac/releases/latest)**
 
 > Use only on devices you are permitted to service. Run Windows builds as Administrator when required.
 
-## рџ“‹ Requirements
+## 📋 Requirements
 
 - **macOS**
 - **iOS 7 – 10.3.4**
 
-## рџ”— Related links
+## 🔗 Related links
 
 | Resource | URL |
 |----------|-----|
@@ -55,9 +55,9 @@ macOS serial number generator for A5/A6 Wi‑Fi Find My research.
 
 ---
 
-## вљ–пёЏ Disclaimer
+## ⚖️ Disclaimer
 
-РРЅСЃС‚СЂСѓРјРµРЅС‚ РїСЂРµРґРЅР°Р·РЅР°С‡РµРЅ РґР»СЏ **Р°РІС‚РѕСЂРёР·РѕРІР°РЅРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Рё РёСЃСЃР»РµРґРѕРІР°РЅРёР№** РЅР° СѓСЃС‚СЂРѕР№СЃС‚РІР°С…, РєРѕС‚РѕСЂС‹РјРё РІС‹ РІР»Р°РґРµРµС‚Рµ РёР»Рё РёРјРµРµС‚Рµ РїСЂР°РІРѕ РѕР±СЃР»СѓР¶РёРІР°С‚СЊ.
+Инструмент предназначен для **авторизованного сервиса и исследований** на устройствах, которыми вы владеете или имеете право обслуживать.
 
 For **authorized service and research** on devices you own or may service.
 
@@ -65,6 +65,6 @@ For **authorized service and research** on devices you own or may service.
 
 <p align="center">
 
-**SmartMaster35Rus** В· [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
+**SmartMaster35Rus** · [smartmaster35rus-activator.ru](https://smartmaster35rus-activator.ru/compatible.php)
 
 </p>
